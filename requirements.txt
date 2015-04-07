@@ -1,0 +1,6 @@
+Django==1.7.5
+boto==2.36.0
+dj-database-url==0.3.0
+django-storages-redux==1.2.2
+gunicorn==19.2.1
+psycopg2==2.6
